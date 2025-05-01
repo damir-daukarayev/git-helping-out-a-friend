@@ -1,0 +1,1 @@
+# git-helping-out-a-friend
